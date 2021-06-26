@@ -1,192 +1,86 @@
 
- Title: Панельна дискусія: Soft skills для дизайнерів            
- Speaker: cookies
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: None
-
- Title: Product Design Conference            
- Speaker: cookies
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: None
-
- Title: Product Marketing Conference            
- Speaker: cookies
- Speaker Company: None
- Speaker Company Link: https://www.facebook.com/lun.ua/
- Who is Speaker: None
-
- Title: Дизайн-консалтинг. Кастомні підходи до вирішення бізнесових питань            
- Speaker: Уляна Бащук
- Speaker Company: Eleks                
- Speaker Company Link: https://eleks.com/
- Who is Speaker: Уляна Бащук                 — дизайн-менеджер                                
-
- Title: Как попасть на работу мечты, когда нет или мало опыта            
- Speaker: Артур Федоренко
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Артур Федоренко                 — руководитель Product Growth Team,                                    Projector                                            
-
- Title: Робочі інструменти піарника            
- Speaker: Вера Щербакова
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Вера Щербакова                 — Head of Communications,                                    Ajax Systems                                            
-
- Title: Чего я стою без экрана?            
- Speaker: Иван Голяков
- Speaker Company: Моя комната                
- Speaker Company Link: https://myroom.school/
- Who is Speaker: Иван Голяков                 — основатель                                
-
- Title: Фреймворк Jobs To Be Done             
- Speaker: Анастасія Левчук
- Speaker Company: Агенти змін                
- Speaker Company Link: http://a3.kyiv.ua/
- Who is Speaker: Анастасія Левчук                 — UX Researcher в                                 
-
- Title: Your presentation sucks            
- Speaker: Олексій Тертишник
- Speaker Company: Mate                
- Speaker Company Link: https://madebymate.com.ua
- Who is Speaker: Олексій Тертишник                 — арт-директор в                                
-
- Title: Як проводити A/B тести             
- Speaker: Дарія Максимова
- Speaker Company: Genesis                
- Speaker Company Link: https://gen.tech/
- Who is Speaker: Дарія Максимова                 — інтерфейс дизайнерка,                                 
-
- Title: Баланс між особистим життям та роботою            
- Speaker: Злата Гнатюк
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Злата Гнатюк                 — психотерапевтка                                             
-
- Title: Софт скіли на робочому місці            
- Speaker: Злата Гнатюк
- Speaker Company: Київський Гештальт Університет
- Speaker Company Link: https://www.kgu.org.ua/
- Who is Speaker: Злата Гнатюк                 — психотерапевтка                                             
-
- Title: Як дизайнеру розвиватися в сфері            
- Speaker: Вова Сафонов
- Speaker Company: Readdle                
- Speaker Company Link: https://readdle.com/
- Who is Speaker: Вова Сафонов                 — Product Designer                                 
-
- Title: Ідеї на швидкість            
- Speaker: Ігор Фінашкін
- Speaker Company: IAMIDEA                
- Speaker Company Link: https://iamidea.agency/
- Who is Speaker: Ігор Фінашкін                 — засновник та креативний директор                                
-
- Title: Свобода волі для творчих людей            
- Speaker: Олександр Трегуб
- Speaker Company: Projector                
- Speaker Company Link: https://prjctr.online/
- Who is Speaker: Олександр Трегуб                 — дизайнер, видавець Telegraf. design, засновник                                
-
- Title: Как тренды одного Z-поколения определяют ценности всего общества (Часть 1. Теория)             
- Speaker: Владислав Болсун
- Speaker Company: mozgi ideas                
- Speaker Company Link: https://mozgi.agency/
- Who is Speaker: Владислав Болсун                 — CEO and Co-Owner                                 
-
- Title: Устав, полуустав, в'язь й український скоропис. Як осучаснити кирилицю, де шукати приклади та навіщо це потрібно            
- Speaker: Віка Лопухіна
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Віка Лопухіна                 — художниця-графік, каліграфка, графічна та шрифтова дизайнерка                                            
-
- Title: Устав, полуустав, в'язь й український скоропис. Як осучаснити кирилицю, де шукати приклади та навіщо це потрібно            
- Speaker: Віка Лопухіна
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Віка Лопухіна                 — художниця-графік, каліграфка, графічна та шрифтова дизайнерка                                            
-
- Title: Стіни. З чого почати та як працювати з масштабом. Інструменти й матеріали            
- Speaker: Віта Лопухіна
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Віта Лопухіна                 — художниці-графіки, каліграфки, графічні та шрифтові дизайнерки.                                             
-
- Title: Як дивитися рекламу             
- Speaker: Віталій Капустян
- Speaker Company: Twiga                
- Speaker Company Link: http://www.twiga.com.ua/
- Who is Speaker: Віталій Капустян                 — креативний директор в                                 
-
- Title: Стріт стайл. Як графіті культура повпливала на стилі в леттерингу            
- Speaker: Віка Лопухіна
- Speaker Company: cookies
- Speaker Company Link: /page/terms-library-ukr.html
- Who is Speaker: Віка Лопухіна  Віта Лопухіна                 — художниці-графіки, каліграфки, графічні та шрифтові дизайнерки.                                             
-
- Title: Створення 3D ілюстрації              
- Speaker: Олександр Шатов
- Speaker Company: Preply                
- Speaker Company Link: https://preply.com
- Who is Speaker: Олександр Шатов                 — продуктовий та маркетинг дизайнер в                                
-
- Title: Прості методи UX досліджень             
- Speaker: Міша Рибачук
- Speaker Company: Projector                
- Speaker Company Link: https://prjctr.online
- Who is Speaker: Міша Рибачук                 — проєктувальник інтерфейсів, Principle Executive Officer в   
-
- Title: Як робити простіше             
- Speaker: Алекс Твіста
- Speaker Company: Twid                
- Speaker Company Link: https://twid.studio/
- Who is Speaker: Алекс Твіста                 — засновник та креативний директор в                                 
-
- Title: Як організувати роботу креативної команди             
- Speaker: Аліна Божнюк
- Speaker Company: Fedoriv                
- Speaker Company Link: https://fedoriv.com/uk/main
- Who is Speaker: Аліна Божнюк                 — менеджерка проєктів в                                
-
- Title: Клієнтський досвід             
- Speaker: Дмитро Деркач
- Speaker Company: Планета кіно                 
- Speaker Company Link: https://planetakino.ua
- Who is Speaker: Дмитро Деркач                 — співвласник                                
-
- Title: Коли та навіщо потрібно робити свій подкаст?             
- Speaker: Павло Бондаренко
- Speaker Company: Радіо Поділ                 
- Speaker Company Link: https://radiopodil.org/
- Who is Speaker: Павло Бондаренко                 — співзасновник та продюсер                                
-
- Title: Оформлення кейсів на колінках. Як за допомогою рук, телефону та магазину канцтоварів створити крутий контент            
- Speaker: Марго Гаряжа
- Speaker Company: branding büro 22                
- Speaker Company Link: https://www.instagram.com/branding.buro22/
- Who is Speaker: Марго Гаряжа                 — арт-директорка                                 
-
- Title: Аналітика, систематизація, робота над помилками. Як прокачатися з рівня дизайнера до арт-директора            
- Speaker: Марго Гаряжа
- Speaker Company: branding büro 22                
- Speaker Company Link: https://www.instagram.com/branding.buro22/
- Who is Speaker: Марго Гаряжа                 — арт-директорка                                 
-
- Title: Культура B2B продажів в компанії            
- Speaker: Юрій Романюха
- Speaker Company: B2B Sales
- Speaker Company Link: https://prjctr.online/b2b-sales.html?utm_source=lib&utm_campaign=l&utm_content=lib_lecture
- Who is Speaker: Юрій Романюха                 — засновник                                    Presales Agency                                            
-
- Title: Хочу в Forbes, Mashable, The Verge: Як продукту отримати міжнародний PR             
- Speaker: Орися Хім'як
- Speaker Company: Reface                
- Speaker Company Link: https://reface.app
- Who is Speaker: Орися Хім'як                 — Head of PR                                
-
- Title: Є AR/VR ідея, що робити далі?            
- Speaker: Дар'я Федько
- Speaker Company: WeAR Studio                
- Speaker Company Link: wear-studio.com
- Who is Speaker: Дар'я Федько                 — засновниця та керівниця                                
+ Title: Панельна дискусія: Soft skills для дизайнерів
+ Speaker: 
+ Title: Product Design Conference
+ Speaker: 
+ Title: Product Marketing Conference
+ Speaker: 
+ Title: Дизайн-консалтинг. Кастомні підходи до вирішення бізнесових питань
+ Speaker: Уляна Бащук — дизайн-менеджер 
+ Eleks
+ Title: Как попасть на работу мечты, когда нет или мало опыта
+ Speaker: Артур Федоренко — руководитель Product Growth Team, Projector
+ Title: Робочі інструменти піарника
+ Speaker: Вера Щербакова — Head of Communications, Ajax Systems
+ Title: Чего я стою без экрана?
+ Speaker: Иван Голяков — основатель 
+ Моя комната
+ Title: Фреймворк Jobs To Be Done
+ Speaker: Анастасія Левчук — UX Researcher в 
+ Агенти змін
+ Title: Your presentation sucks
+ Speaker: Олексій Тертишник — арт-директор в 
+ Mate
+ Title: Як проводити A/B тести
+ Speaker: Дарія Максимова — інтерфейс дизайнерка, 
+ Genesis
+ Title: Баланс між особистим життям та роботою
+ Speaker: Злата Гнатюк — психотерапевтка
+ Title: Софт скіли на робочому місці
+ Speaker: Злата Гнатюк — психотерапевтка
+ Title: Як дизайнеру розвиватися в сфері
+ Speaker: Вова Сафонов — Product Designer 
+ Readdle
+ Title: Ідеї на швидкість
+ Speaker: Ігор Фінашкін — засновник та креативний директор 
+ IAMIDEA
+ Title: Свобода волі для творчих людей
+ Speaker: Олександр Трегуб — дизайнер, видавець Telegraf. design, засновник 
+ Projector
+ Title: Как тренды одного Z-поколения определяют ценности всего общества (Часть 1. Теория)
+ Speaker: Владислав Болсун — CEO and Co-Owner 
+ mozgi ideas
+ Title: Устав, полуустав, в'язь й український скоропис. Як осучаснити кирилицю, де шукати приклади та навіщо це потрібно
+ Speaker: Віка Лопухіна — художниця-графік, каліграфка, графічна та шрифтова дизайнерка
+ Title: Устав, полуустав, в'язь й український скоропис. Як осучаснити кирилицю, де шукати приклади та навіщо це потрібно
+ Speaker: Віка Лопухіна — художниця-графік, каліграфка, графічна та шрифтова дизайнерка
+ Title: Стіни. З чого почати та як працювати з масштабом. Інструменти й матеріали
+ Speaker: Віта Лопухіна — художниці-графіки, каліграфки, графічні та шрифтові дизайнерки.
+ Title: Як дивитися рекламу
+ Speaker: Віталій Капустян — креативний директор в 
+ Twiga
+ Title: Стріт стайл. Як графіті культура повпливала на стилі в леттерингу
+ Speaker: Віка Лопухіна Віта Лопухіна — художниці-графіки, каліграфки, графічні та шрифтові дизайнерки.
+ Title: Створення 3D ілюстрації
+ Speaker: Олександр Шатов — продуктовий та маркетинг дизайнер в 
+ Preply
+ Title: Прості методи UX досліджень
+ Speaker: Міша Рибачук — проєктувальник інтерфейсів, Principle Executive Officer в 
+ 
+ Projector
+ Title: Як робити простіше
+ Speaker: Алекс Твіста — засновник та креативний директор в 
+ Twid
+ Title: Як організувати роботу креативної команди
+ Speaker: Аліна Божнюк — менеджерка проєктів в 
+ Fedoriv
+ Title: Клієнтський досвід
+ Speaker: Дмитро Деркач — співвласник 
+ Планета кіно
+ Title: Коли та навіщо потрібно робити свій подкаст?
+ Speaker: Павло Бондаренко — співзасновник та продюсер 
+ Радіо Поділ
+ Title: Оформлення кейсів на колінках. Як за допомогою рук, телефону та магазину канцтоварів створити крутий контент
+ Speaker: Марго Гаряжа — арт-директорка 
+ branding büro 22
+ Title: Аналітика, систематизація, робота над помилками. Як прокачатися з рівня дизайнера до арт-директора
+ Speaker: Марго Гаряжа — арт-директорка 
+ branding büro 22
+ Title: Культура B2B продажів в компанії
+ Speaker: Юрій Романюха — засновник Presales Agency
+ Title: Хочу в Forbes, Mashable, The Verge: Як продукту отримати міжнародний PR
+ Speaker: Орися Хім'як — Head of PR 
+ Reface
+ Title: Є AR/VR ідея, що робити далі?
+ Speaker: Дар'я Федько — засновниця та керівниця 
+ WeAR Studio
