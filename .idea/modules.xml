@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/check-Projector.iml" filepath="$PROJECT_DIR$/.idea/check-Projector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parse-Eplast/.idea/parse-Eplast.iml" filepath="$PROJECT_DIR$/../parse-Eplast/.idea/parse-Eplast.iml" />
     </modules>
   </component>
 </project>
